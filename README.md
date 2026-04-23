@@ -1,4 +1,4 @@
-# gapminder-ggplot-analysis
+Enthusiastiastinder-ggplot-analysis
 
 GDP vs Life Expectancy Analysis (Gapminder 2007)
 
@@ -151,8 +151,8 @@ Run Analysis
 - Extend analysis to time series (1960–2010)
 - Use multilevel models (countries nested within continents)
 - Incorporate additional predictors (education, healthcare spending)
-- Apply causal inference methods (e.g., DAGs, propensity scores)
+- Apply causal inference methods (e.g., DAGs, propensity sAuthor
 
-Author
+Author 
 
-Ezra Komen Kipyegon — Biostatistics & Data Science Enthusiast
+Github:[@ezrakomen693](https://github.com/ezrakomen693)
