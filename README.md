@@ -1,5 +1,3 @@
-Enthusiastiastinder-ggplot-analysis
-
 GDP vs Life Expectancy Analysis (Gapminder 2007)
 
 Project Overview
